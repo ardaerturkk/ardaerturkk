@@ -1,7 +1,7 @@
 
 # Hello!
 
-I'm Arda, a 22 years old web developer from Turkey.
+I'm Arda, a 24 years old full-stack developer from Turkey.
 
 🦔 I am also skilled in UI/UX Design.
 
